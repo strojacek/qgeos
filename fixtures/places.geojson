@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"features":[
+{"type":"Feature","properties":{"name":"Bryan","pop":86000,"big":5000000000,"score":1.5,"open":true,"founded":"1855-01-01","seen":"2024-01-15T10:30:00Z"},"geometry":{"type":"Point","coordinates":[-96.37,30.67]}},
+{"type":"Feature","properties":{"name":"College Station","pop":120000,"big":6000000000,"score":2.25,"open":false,"founded":"1938-10-19","seen":"2024-02-01T00:00:00Z"},"geometry":{"type":"Point","coordinates":[-96.33,30.63]}},
+{"type":"Feature","properties":{"name":"Nowhere","pop":null,"big":null,"score":null,"open":null,"founded":null,"seen":null},"geometry":null}
+]}
